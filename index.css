@@ -1,0 +1,116 @@
+#inputbox{
+    height: 2pc;
+    width: 26pc;
+    margin-left: 30pc;
+    border:none;
+    border-radius: 10px;
+    direction: calc();
+    
+}
+#ac{
+    margin-left: 480px;
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#percentage{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+    
+}
+#del{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#div{
+    width: 104px;
+    border: none;
+    border-radius: 10px;
+    
+}
+#seven{
+    margin-left: 30pc;
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#four{
+    margin-left: 30pc;
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#one{
+    margin-left: 30pc;
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#dzero{
+    margin-left: 30pc;
+    width: 101px;
+    border-radius: 10px;
+    border: none;
+}
+#eight{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#nine{
+    width: 101px;
+    border-radius: 10px;
+    border: none;
+}
+#mult{
+    width: 104px;
+    border: none;
+    border-radius: 10px;
+}
+#five{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#six{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#sub{
+    width: 104px;
+    border: none;
+    border-radius: 10px;
+}
+#two{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#three{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#add{
+    width: 104px;
+    border: none;
+    border-radius: 10px;
+}
+#zero{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#equal{
+    width: 101px;
+    border: none;
+    border-radius: 10px;
+}
+#dolt{
+    width: 104px;
+    border: none;
+    border-radius: 10px;
+}
